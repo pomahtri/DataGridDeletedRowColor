@@ -2,7 +2,7 @@
 /**
 * DevExtreme (dx.material.blue.dark.compact.css)
 * Version: 21.2.0
-* Build date: Thu Jul 01 2021
+* Build date: Fri Jul 02 2021
 *
 * Copyright (c) 2012 - 2021 Developer Express Inc. ALL RIGHTS RESERVED
 * Read about DevExtreme licensing here: https://js.devexpress.com/Licensing/
@@ -13659,9 +13659,10 @@
   color: rgba(0,0,0,.87);
 }
 .dx-datagrid-rowsview .dx-row-removed > td {
-  background-color: #000;
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
+  background-color: #515159;
+  border-top: 1px solid #515159;
+  border-bottom: 1px solid #515159;
+  color: rgba(255,255,255,.6);
 }
 .dx-datagrid-rowsview .dx-adaptive-detail-row .dx-field-item-label {
   padding-top: 0;
@@ -16124,9 +16125,10 @@ input.dx-hidden {
   color: rgba(0,0,0,.87);
 }
 .dx-treelist-rowsview .dx-row-removed > td {
-  background-color: #000;
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
+  background-color: #515159;
+  border-top: 1px solid #515159;
+  border-bottom: 1px solid #515159;
+  color: rgba(255,255,255,.6);
 }
 .dx-treelist-rowsview .dx-adaptive-detail-row .dx-field-item-label {
   padding-top: 0;

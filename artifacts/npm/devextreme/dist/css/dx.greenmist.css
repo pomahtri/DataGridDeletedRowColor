@@ -2,7 +2,7 @@
 /**
 * DevExtreme (dx.greenmist.css)
 * Version: 21.2.0
-* Build date: Thu Jul 01 2021
+* Build date: Fri Jul 02 2021
 *
 * Copyright (c) 2012 - 2021 Developer Express Inc. ALL RIGHTS RESERVED
 * Read about DevExtreme licensing here: https://js.devexpress.com/Licensing/
@@ -11790,9 +11790,10 @@
   padding: 9px 17px;
 }
 .dx-datagrid-rowsview .dx-row-removed > td {
-  background-color: #b5b5b5;
-  border-top: 1px solid #b5b5b5;
-  border-bottom: 1px solid #b5b5b5;
+  background-color: #dedede;
+  border-top: 1px solid #dedede;
+  border-bottom: 1px solid #dedede;
+  color: #7eb2be;
 }
 .dx-datagrid-rowsview .dx-adaptive-detail-row .dx-adaptive-item-text {
   padding-top: 8px;
@@ -13923,9 +13924,10 @@ input.dx-hidden {
   padding: 9px 17px;
 }
 .dx-treelist-rowsview .dx-row-removed > td {
-  background-color: #b5b5b5;
-  border-top: 1px solid #b5b5b5;
-  border-bottom: 1px solid #b5b5b5;
+  background-color: #dedede;
+  border-top: 1px solid #dedede;
+  border-bottom: 1px solid #dedede;
+  color: #7eb2be;
 }
 .dx-treelist-rowsview .dx-adaptive-detail-row .dx-adaptive-item-text {
   padding-top: 8px;
